@@ -1,23 +1,15 @@
 +++
-title = "Sebuah Pikiran"
-description = ""
-type = ["posts","post"]
-tags = [
-    "inspirasi",
-    "waktu",
-    "hidup",
-    "catatan",
-]
+categories = ["Catatan", "Inspirasi"]
 date = "2019-07-17"
-categories = [
-    "Catatan",
-    "Inspirasi",
-]
+description = ""
 series = ["Bicara tentang masalah"]
-[ author ]
-  name = "Alvin Indra"
-+++
+tags = ["inspirasi", "waktu", "hidup", "catatan"]
+title = "Sebuah Pikiran"
+type = ["posts", "post"]
+[author]
+name = "Alvin Indra"
 
++++
 Berbicara tentang berpikir, kita itu setiap hari pasti berpikir. Dikala sedang susah, senang, sedih. Pokoknya pasti berpikir karena setiap manusia memiliki otak yang digunakan untuk berpikir hehe.
 
 Owh iya ini sebenarnya bukan kali pertama saya menulis, hanya saja mungkin ini yang dijadikan postingan pertama untuk blog ini.
@@ -44,4 +36,4 @@ Lakukan satu persatu tugas kamu itu lalu coret ketika sudah mengerjakannya, kamu
 
 Mungkin hal yang penting, cobalah untuk berpikir jernih terlebih dahulu, ambil sisi positifnya. Jika kamu berpikir negatif cobalah tulis juga dikertas kamu, karena biasanya pikiran negatif itu datang begitu saja. Tapi ketika kamu menulisnya dan biasanya hal yang negatif itu tidak terjadi pada diri kamu.
 
-Itu saja untuk postingan pertama ini sepertinya, sebuah pikiran yang dikemas menjadi baik akan membuat diri kamu nyaman. Mungkin untuk kamu yang sudah lebih baik dalam berpikir, mungkin bisa memberi masukan/tanggapannya disini : [Masukan/Tanggapan Sebuah Pikiran]http://twitter.com/alvinindrapra
+Itu saja untuk postingan pertama ini sepertinya, sebuah pikiran yang dikemas menjadi baik akan membuat diri kamu nyaman. Mungkin untuk kamu yang sudah lebih baik dalam berpikir, mungkin bisa memberi masukan/tanggapannya disini : \[[Masukan/Tanggapan Sebuah Pikiran]()\]
