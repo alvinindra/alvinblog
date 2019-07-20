@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alvin Indra</title>
+    <link>http://alvinblog.github.io/tags/</link>
+    <description>Recent content in Tags on Alvin Indra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alvinblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>catatan</title>
+      <link>http://alvinblog.github.io/tags/catatan/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alvinblog.github.io/tags/catatan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hidup</title>
+      <link>http://alvinblog.github.io/tags/hidup/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alvinblog.github.io/tags/hidup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jodoh</title>
+      <link>http://alvinblog.github.io/tags/jodoh/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alvinblog.github.io/tags/jodoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspirasi</title>
+      <link>http://alvinblog.github.io/tags/inspirasi/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alvinblog.github.io/tags/inspirasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waktu</title>
+      <link>http://alvinblog.github.io/tags/waktu/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://alvinblog.github.io/tags/waktu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
