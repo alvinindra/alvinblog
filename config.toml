@@ -1,114 +1,84 @@
-baseurl = "http://alvinblog.github.io"
-title="Alvin Indra"
-theme = "hello-friend-ng"
-
 archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
-buildDrafts  = false
-buildFuture  = false
+baseurl = "http://alvinblog.github.io"
+buildDrafts = false
 buildExpored = false
+buildFuture = false
 canonifyURLs = true
-
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
+contentDir = "content"
+dataDir = "data"
+disable404 = false
 disableHugoGeneratorInject = false
-
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-  
+disableRSS = false
+disableSitemap = false
+enableEmoji = true
+enableGitInfo = false
+enableMissingTranslationPlaceholders = false
+enableRobotsTXT = true
+layoutDir = "layouts"
+publishDir = "public"
+theme = "hello-friend-ng"
+title = "Alvin Indra"
 [author]
-  name = "Alvin Indra"
-
+name = "Alvin Indra"
 [blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = ""
-
+hrefTargetBlank = true
+[languages.en]
+copyright = ""
+keywords = "Personal, Catatan, Inspirasi, Tentangku"
+readOtherPosts = "Baca yang lainnya"
+subtitle = "Hai, Selamat datang di Dunia Tulisku :)"
+title = "Alvin Indra"
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+[[languages.en.menu.main]]
+identifier = "tentang"
+name = "Tentang"
+url = "/about"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "alvinblog.me"
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 3
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+weight = 2
+[[menu.main]]
+identifier = "tentang"
+name = "Tentang"
+url = "/about"
+weight = 1
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "Hai, Selamat Datang Di Dunia Tulisku"
-  
-  # Metadata mostly used in document's head
-  description = "Homepage and blog by Alvin Indra"
-  keywords = "homepage, blog, science, informatics, development, programming"
-  images = [""]
-
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-
-[languages]
-  [languages.en]
-    title = "Alvin Indra"
-    subtitle = "Hai, Selamat datang di Dunia Tulisku :)"
-    keywords = "Personal, Catatan, Inspirasi, Tentangku"
-    copyright = ""
-    readOtherPosts = "Baca yang lainnya"
-
-    [languages.en.params.logo]
-      logoText = "alvinblog.me"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-	# You can create a language based menu
-    [languages.en.menu]
-	  [[languages.en.menu.main]]
-        identifier = "blog"
-		name       = "Blog"
-		url        = "/posts"
-      [[languages.en.menu.main]]
-        identifier = "tentang"
-        name = "Tentang"
-        url = "/about"
-		
-	# Social icons
-	  [[params.social]]
-		name = "twitter"
-		url  = "https://twitter.com/alvinindrapra"
-
-	  [[params.social]]
-		name = "email"
-		url  = "mailto:alvinindrap@gmail.com"
-
-	  [[params.social]]
-		name = "github"
-		url  = "https://github.com/alvinindrap"
-
-	  [[params.social]]
-		name = "linkedin"
-		url  = "https://www.linkedin.com/alvinindra"
-		
-# And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "tentang"
-    name       = "Tentang"
-    url        = "/about"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
-
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects"
+contentTypeName = "posts"
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+dateformShort = "Jan 2"
+defaultTheme = "dark"
+description = "Homepage and blog by Alvin Indra"
+homeSubtitle = "Hai, Selamat Datang Di Dunia Tulisku"
+images = [""]
+keywords = "homepage, blog, science, informatics, development, programming"
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/alvinindrapra"
+[[params.social]]
+name = "email"
+url = "mailto:alvinindrap@gmail.com"
+[[params.social]]
+name = "github"
+url = "https://github.com/alvinindrap"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/alvinindra"
+[permalinks]
+posts = "/posts/:year/:month/:title/"
+[taxonomies]
+category = ""
+tag = "tags"
