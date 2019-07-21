@@ -4,18 +4,14 @@
 <meta name="author"
     content="{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ range .Site.Author }}{{ . }} {{ end }}{{ end }}">
 <meta name="description"
-    content="{{ if .IsHome true }}{{ .Site.Params.homeSubtitle }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
+    content="{{ .Site.Params.homeSubtitle }}" />
 <meta name="keywords" content="{{ .Site.Params.keywords }}" />
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
 {{ block "title" . }}
 <title>
-    {{ if .IsHome true }}
-    {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }} {{ end }}
-    {{ else }}
-    {{ .Title }} :: {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}
-    {{ end }}
+    {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }}
 </title>
 {{ end }}
 
