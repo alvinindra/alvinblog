@@ -1,22 +1,15 @@
 +++
-title = "Bicara tentang jodoh"
-description = ""
-type = ["posts","post"]
-tags = [
-    "jodoh",
-    "hidup",
-    "catatan",
-]
+categories = ["Catatan", "Inspirasi"]
 date = "2019-07-18"
-categories = [
-    "Catatan",
-    "Inspirasi",
-]
+description = ""
 series = ["Bicara tentang masalah"]
-[ author ]
-  name = "Alvin Indra"
-+++
+tags = ["jodoh", "hidup", "catatan"]
+title = "Bicara tentang jodoh"
+type = ["posts", "post"]
+[author]
+name = "Alvin Indra"
 
++++
 Jodoh, apa udah ada yang dapat ? atau lagi menunggu ? hehe. Owh, mungkin masih pelajar atau ingin sukses dulu baru mau menikah, mungkin juga ada yang belum dapat hehehe.
 
 Bicara tentang jodoh, laki-laki maupun perempuan pasti suatu saat ingin mewujudkan hal yang bahagia untuknya. Sepasang kekasih yang sudah halal tentunya sudah bisa merasakan kebahagiaan bersama-sama.
@@ -35,4 +28,4 @@ Perlu direnungkan, mungkin memang kita kesal atau iri pada yang lain, karena bis
 
 Kita perlu mengambil resiko ketika kamu seorang pelajar atau dimasa kamu belum serius akan menikah, kita biasanya sudah jatuh cinta sebelum waktunya. Tidak mengapa, walau berat tapi tetap harus bersabar, jangan memandang iri orang lain, tanamkan prinsip di diri kamu bahwa kita bisa mendapatkan yang lebih baik lagi.
 
-Jika kamu ingin meraih jodohmu, perbaiki diri kamu ! jadi lebih baik lagi ! belajar lagi dan lagi.
+Jika kamu ingin meraih jodohmu, perbaiki diri kamu ! jadi lebih baik lagi ! belajar lagi dan lagi. Karena jodohmu adalah cerminan diri kamu.
