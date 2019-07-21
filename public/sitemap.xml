@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alvinblog.github.io/</loc>
+    <loc>http://alvinblog.me/</loc>
     <lastmod>2019-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/about/</loc>
+    <loc>http://alvinblog.me/about/</loc>
     <lastmod>2019-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/posts/2019/07/bicara-tentang-jodoh/</loc>
+    <loc>http://alvinblog.me/posts/2019/07/bicara-tentang-jodoh/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/posts/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alvinblog.github.io/tags/</loc>
+    <loc>http://alvinblog.me/posts/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/tags/catatan/</loc>
+    <loc>http://alvinblog.me/tags/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/tags/hidup/</loc>
+    <loc>http://alvinblog.me/tags/catatan/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/tags/jodoh/</loc>
+    <loc>http://alvinblog.me/tags/hidup/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/posts/2019/07/sebuah-pikiran/</loc>
+    <loc>http://alvinblog.me/tags/jodoh/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alvinblog.me/posts/2019/07/sebuah-pikiran/</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/tags/inspirasi/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alvinblog.github.io/tags/waktu/</loc>
+    <loc>http://alvinblog.me/tags/inspirasi/</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alvinblog.github.io/index.html</loc>
+    <loc>http://alvinblog.me/tags/waktu/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alvinblog.me/index.html</loc>
     <priority>0</priority>
   </url>
   
