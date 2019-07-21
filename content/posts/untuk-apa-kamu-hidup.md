@@ -6,4 +6,4 @@ title = "Untuk Apa Kamu Hidup ?"
 name = "Alvin Indra"
 
 +++
-Hehe, belum
+Hehe, belum ntar di bikin :( sorry
