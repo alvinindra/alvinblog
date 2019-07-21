@@ -24,7 +24,7 @@ Teman, mungkin aku hanya bisa mendoakanmu saja, maaf diri ini tidak bisa menegur
 
 Bicara lagi tentang jodoh, kadang kita berandai-andai, bagaima sih jodoh kita nanti, ingin yang cantiklah, pintar atau sudah menemukan yang kita inginkan dan kita mendoakannya. Nah, satu hal yang aneh dari kita meminta jodoh kita seperti ini, misalnya kita berdoa kepada Allah ingin menjadikan dia sebagai jodoh kita jangan jodohkan dia selain saya. Tidakkah kita itu egois ? meminta kepada Allah yang Maha Tahu Segalanya, bagaimana bisa kita memaksakan meminta jodoh itu dia padahal Allah tahu mana yang baik baginya.
 
-Perlu direnungkan, mungkin memang kita kesal atau iri pada yang lain, karena bisa dia bisa saja berjodoh dengan yang lain, tapi Allah tahu yang baik. Karena laki-laki yang baik untuk perempuan yang baik juga. Mungkin Allah ingin kamu dipasangkan oleh jodoh yang lebih baik lagi ! jangan berputus asa, memintalah yang terbaik.
+Perlu direnungkan, mungkin memang kita kesal atau iri pada yang lain, karena dia bisa saja berjodoh dengan yang lain, tapi Allah tahu yang baik. Karena laki-laki yang baik untuk perempuan yang baik juga. Mungkin Allah ingin kamu dipasangkan oleh jodoh yang lebih baik lagi ! jangan berputus asa, memintalah yang terbaik.
 
 Kita perlu mengambil resiko ketika kamu seorang pelajar atau dimasa kamu belum serius akan menikah, kita biasanya sudah jatuh cinta sebelum waktunya. Tidak mengapa, walau berat tapi tetap harus bersabar, jangan memandang iri orang lain, tanamkan prinsip di diri kamu bahwa kita bisa mendapatkan yang lebih baik lagi.
 
