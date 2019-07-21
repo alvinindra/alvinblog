@@ -1,6 +1,7 @@
 baseurl = "/"
 title="Alvin Indra"
 theme = "hello-friend-ng"
+DefaultContentLanguage = "en"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
