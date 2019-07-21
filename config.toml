@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://alvinblog.me"
 title="Alvin Indra"
 theme = "hello-friend-ng"
 DefaultContentLanguage = "en"
