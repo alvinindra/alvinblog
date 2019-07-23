@@ -18,5 +18,3 @@ fields:
   - type: text
     name: name
     label: name
-pages:
-- content/posts/ini-salah-1.md
