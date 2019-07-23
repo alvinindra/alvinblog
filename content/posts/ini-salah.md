@@ -2,6 +2,7 @@
 categories = ["Catatan", "Inspirasi"]
 date = "2019-07-23T22:03:00+07:00"
 description = ""
+draft = true
 series = ["Bicara tentang masalah"]
 tags = ["inspirasi", "waktu", "hidup", "catatan"]
 title = "Ini Salah !"
