@@ -22,7 +22,7 @@ Salah ketika membanggakan diri sendiri lebih baik dari pada orang lain.
 
 Salah ketika belajar kita mengambil baiknya saja padahal kita tidak tahu apakah itu baik atau tidak.
 
-Salah.. benar semua ini salah...
+Salah... benar semua ini salah...
 
 Tapi, apakah diri ini bisa berada di jalan yang benar ???
 
