@@ -14,9 +14,12 @@ Jodoh, apa udah ada yang dapat ? atau lagi menunggu ? hehe. Owh, mungkin masih p
 
 Bicara tentang jodoh, laki-laki maupun perempuan pasti suatu saat ingin mewujudkan hal yang bahagia untuknya. Sepasang kekasih yang sudah halal tentunya sudah bisa merasakan kebahagiaan bersama-sama.
 
-Tapi bagaimana ketika kita melihat pelajar yang padahal tahu akan larangan berpacaran. Yah, siapa yang tidak tahu tentang pacaran, maraknya para remaja sekarang itu berpacaran. Mereka tahu larangannya itu tetapi tetap dilakukan. Mungkin kita selaku yang tidak berpacaran tersebut atau yang sering disebut jomblo hehe.. merasa iri akan hal tersebut, padahal kalian janganlah iri dengan mereka, tetapi bersabarlah karena yang kalian jalani sebagai jomblo ini tidak masuk kedalam maksiat tersebut, bersyukurluh .
+Tapi bagaimana ketika kita melihat pelajar yang padahal tahu akan larangan berpacaran. Yah, siapa yang tidak tahu tentang pacaran, maraknya para remaja sekarang itu berpacaran. Mereka tahu larangannya itu tetapi tetap dilakukan. Mungkin kita selaku yang tidak berpacaran tersebut atau yang sering disebut jomblo hehe.. merasa iri akan hal tersebut, padahal kalian janganlah iri dengan mereka, tetapi bersabarlah karena yang kalian jalani sebagai jomblo ini tidak masuk kedalam maksiat tersebut, bersyukurluh .  
+...
 
-Aneh, pernahkah kamu lihat ketika orang berpacaran mereka kadang tidak malu ketika bersenderan di depan umum, laki-laki tidur di paha perempuannya sedangkan orang lain melihat. Contohnya aku pernah melihat teman yang melakukannya, *lalu kenapa kamu tidak menegurnya ?. Benar, ketika itu aku hanya bisa diam, aku tahu itu dosa membiarkan mereka, tapi kamu tahu ? pernah saja sesekali ditegur tapi mereka melakukannya lagi, hingga bisa jadi kita yang menegurnya malah dijauhi olehnya.
+Pernah menemukan ketika seseorang yang mengaku tidak ingin berpacaran tetapi dia masih sering chat dengan lawan jenisnya, bertemu dan ada rasa saling suka. Menyukai seseorang tidak salah tetapi cara kita mendekatinya yang salah. 
+
+Ada yang lebih parah lagi , pernahkah kamu lihat ketika orang berpacaran mereka kadang tidak malu ketika bersenderan di depan umum, laki-laki tidur di paha perempuannya sedangkan orang lain melihat. Contohnya aku pernah melihat teman yang melakukannya, *lalu kenapa kamu tidak menegurnya ?. Benar, ketika itu aku hanya bisa diam, aku tahu itu dosa membiarkan mereka, tapi kamu tahu ? pernah saja sesekali ditegur tapi mereka melakukannya lagi, hingga bisa jadi kita yang menegurnya malah dijauhi olehnya.
 
 Teman, mungkin aku hanya bisa mendoakanmu saja, maaf diri ini tidak bisa menegurmu lebih keras karena aku tahu mungkin diri ini masih lemah dan lainnya, semoga kamu bisa menuju ke jalan yang benar.
 
