@@ -33,4 +33,4 @@ Kita perlu mengambil resiko ketika kamu seorang pelajar atau dimasa kamu belum s
 
 Jika kamu ingin meraih jodohmu, perbaiki diri kamu ! jadi lebih baik lagi ! belajar lagi dan lagi. Karena jodohmu adalah cerminan diri kamu.
 
-[https://twitter.com/alvinindrapra/status/1153665429216174080?s=20](https://twitter.com/alvinindrapra/status/1153665429216174080?s=20 "Tanggapanmu / Saranmu")
+Kalau kamu ada tanggapa atau komentar [silahkan kesini](https://twitter.com/alvinindrapra/status/1153665429216174080?s=20 "Bicara tentang jodoh")
