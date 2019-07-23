@@ -19,4 +19,5 @@ fields:
     name: name
     label: name
 pages:
+- content/posts/ini-salah.md
 - content/posts/untuk-apa-kamu-hidup.md
