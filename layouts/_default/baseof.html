@@ -9,7 +9,6 @@
             {{ partial "header.html" . }}
 
             <div class="content">
-                {{ block "main" . }}{{ end }}
                 <main aria-role="main">
                     <div>
                         <h1>{{ .Site.Title }}</h1>
@@ -25,6 +24,7 @@
                         {{- end }}
                     </div>
                 </main>
+                {{ block "main" . }}{{ end }}
             </div>
 
             {{ block "footer" . }}
