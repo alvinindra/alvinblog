@@ -1,7 +1,7 @@
 baseurl = "https://alvinblog.me"
 title="Alvin Indra"
+languageCode = "en-us"
 theme = "hello-friend-ng"
-DefaultContentLanguage = "en"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -72,14 +72,14 @@ disableHugoGeneratorInject = false
 
 	# You can create a language based menu
     [languages.en.menu]
-	  [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "blog"
-		name       = "Blog"
-		url        = "/posts"
+	name       = "Blog"
+	url        = "/posts"
       [[languages.en.menu.main]]
         identifier = "tentang"
-        name = "Tentang"
-        url = "/about"
+        name 	   = "Tentang"
+        url 	   = "/about"
 		
 	# Social icons
 	  [[params.social]]
