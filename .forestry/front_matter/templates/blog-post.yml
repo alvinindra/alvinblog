@@ -31,5 +31,5 @@ fields:
     name: name
     label: name
 pages:
-- content/posts/keindahan-yang-fana.md
 - content/posts/ini-salah.md
+- content/posts/keindahan-yang-fana.md
