@@ -46,7 +46,7 @@ disableHugoGeneratorInject = false
   
   # Metadata mostly used in document's head
   description = "Homepage and blog by Alvin Indra"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  keywords = "homepage, blog, science, informatics, development, programming, blogger, catatan, inspirasi"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
@@ -92,11 +92,11 @@ disableHugoGeneratorInject = false
 
 	  [[params.social]]
 		name = "github"
-		url  = "https://github.com/alvinindrap"
+		url  = "https://github.com/alvinindra"
 
 	  [[params.social]]
 		name = "linkedin"
-		url  = "https://www.linkedin.com/alvinindra"
+		url  = "https://www.linkedin.com/in/alvinindra/"
 		
 # And you can even create generic menu
 [menu]
