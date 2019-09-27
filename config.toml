@@ -49,7 +49,6 @@ disqusShortname = "alvinblog"
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  comments: true
 
 [languages]
   [languages.en]
