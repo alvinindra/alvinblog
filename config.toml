@@ -22,8 +22,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-comments: true
-
+disqusShortname = "alvinblog"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
