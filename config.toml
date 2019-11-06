@@ -22,6 +22,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+googleAnalytics = "UA-98820085-1"
 disqusShortname = "alvinblog"
 
 [permalinks]
