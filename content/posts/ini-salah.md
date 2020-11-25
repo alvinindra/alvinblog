@@ -1,11 +1,11 @@
 +++
 categories = ["nasehat", "catatan", "kehidupan"]
-date = "2019-07-23T22:07:00+07:00"
+date = "2019-07-23"
 description = ""
 series = ["Bicara tentang masalah"]
 tags = ["waktu", "catatan", "inspirasi"]
 title = "Ini Salah !!!"
-type = []
+type = ["posts", "post"]
 [author]
 name = "Alvin Indra"
 
