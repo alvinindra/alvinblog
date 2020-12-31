@@ -61,7 +61,7 @@ disqusShortname = "alvinblog"
     readOtherPosts = "Baca yang lainnya"
 
     [languages.en.params.logo]
-      logoText = "alvinblog.me"
+      logoText = "alvinblog.space"
       logoHomeLink = "/"
     # or
     #
