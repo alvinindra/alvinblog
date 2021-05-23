@@ -5,8 +5,7 @@ description = ""
 series = ["Perasaanku"]
 tags = ["catatan"]
 title = "Perasaanku"
-type = ["posts", "post"]
-[author]
+type = ["posts", "post"][author]
 name = "Alvin Indra"
 
 +++Ada yang berubah dalam diriku, satu persatu perasaan yang hilang begitu saja.
@@ -18,7 +17,7 @@ Rasa cemburu melihat orang lain bersama, melihat dia. Apa yang sebenarnya terjad
 Hanya perasaan kosong yang tak menentu yang ada padaku. Inginku hidup damai, melihat padang rumput yang hijau,
 tiduran dengan nyaman, merasakan sejuknya angin yang lewat, kicauan burung yang saling bertaut dengan burung lainnya.
 
-Satu persatu hal yang buruk sangat ingin kuhapus, diriku lalui ini semua. Aku tahu ini berat, karena menjadi lebih baik itu
+Satu persatu hal yang buruk sangat ingin kuhapus. Diriku lalui ini semua, Aku tahu ini berat, karena menjadi lebih baik itu
 butuh usaha yang keras, menjadi baik perlu adanya konsisten menerapkan hal baik yang harus selalu dibawa dihidupmu.
 
 Mungkin tulisan ini tidak bermakna untuk dibaca oleh orang lain, tapi untuk diriku kumohon jadikan ini sebagai pelampiasan agar kamu menjadi lebih baik lagi.
